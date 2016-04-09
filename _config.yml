@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Richie & Todd's Open-source Workspace  
+description:      Notes on Graphic Novel Project
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -9,10 +9,10 @@ url:  http://todd-san.github.io/gn_prj
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Richie Koch & Todd Miller
   avatar:         avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  email:          todd.san1@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
